@@ -1,17 +1,15 @@
 import React from 'react';
 
 const Card = () => {
-	return (
+	return ( 
 		<div>
-		  <img src='' alt='robo' />
+		  <img src='https://robohash.org/test?size=200x200' alt='robo' />
 		  <div>
 		  	<h2>Jane Doe</h2>
 		  	<p>jane.doe@gmail.com</p>
 		  </div>
 		</div>		  
-
-
-	);
+    );
 
 }
 
